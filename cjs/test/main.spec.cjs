@@ -1,3 +1,4 @@
+// https://github.com/dubzzz/fast-check/pull/4592
 const { getValue } = require("../src/main.cjs");
 
 test("from setup", () => {
